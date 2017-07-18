@@ -1,0 +1,8 @@
+src
+node_modules
+coverage
+*.test.js
+.travis.yml
+.gitignore
+.babelrc
+.DS_Store
